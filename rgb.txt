@@ -1,3 +1,6 @@
+# rgb maps
+# file: 'example of rgb sequence'
+# timestamp filename
 0.00585412979126 rgb/rgb00002.png
 0.00706601142883 rgb/rgb00003.png
 00.0154299736023 rgb/rgb00004.png
