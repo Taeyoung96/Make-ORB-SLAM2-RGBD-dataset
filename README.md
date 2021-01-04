@@ -43,6 +43,9 @@ When you run this code, press 's' button and 'enter' to start.
 You could visualize `RGB image` and `Depth colorized image`.  
 And save images and `rgb.txt` and `depth.txt`!  
 
-
+## 3. Make a little modification about `rgb.txt` and `depth.txt`
+When you get `rgb.txt` and `depth.txt`, It looks like this.  
+For example `rgb.txt`,  
+<center><img src="/img/myImg.png" width="300" height="300"></center>
 
 
