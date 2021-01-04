@@ -3,9 +3,9 @@ import argparse
 
 def get_args():
     parser = argparse.ArgumentParser('To make ORB_SLAM2 Custom Dataset (RGB-D) - Taeyoung96')
-    parser.add_argument('--rgb_path', required=True, help="Absolute Path of RGB Images", type=str)
-    parser.add_argument('--depth_path', required=True, help="Absolute Path of Depth Images", type=str)
-    parser.add_argument('--output', required=True, help="Output name of timesta", type=str)
+    parser.add_argument('--rgb_path', required=True, help="Absolute Path of rgb.txt", type=str)
+    parser.add_argument('--depth_path', required=True, help="Absolute Path of depth.txt", type=str)
+    parser.add_argument('--output', required=True, help="Output name of txt file", type=str)
 
     args = parser.parse_args()
     return args
