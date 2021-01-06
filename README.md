@@ -60,7 +60,7 @@ For example `rgb.txt`,
 00.0167319774628 rgb/rgb00012.png ...
 ```
 
-**You should fix this `notepad` to follow ORB_SLAM2 `rgb.txt` rules!**  
+**You should fix this txt file to follow ORB_SLAM2 `rgb.txt` rules!**  
 
 Just add these 3 lines to fit the format.  
 ```
