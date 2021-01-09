@@ -14,8 +14,6 @@ def make_association(opt):
     file_rgb_path = opt.rgb_path
     file_depth_path = opt.depth_path
     output = opt.output
-#file_rgb_path = '/home/taeyoungkim/Desktop/ORBSLAM2_with_pointcloud_map/ORB_SLAM2_modified/dataset/kist_L8_floor4_d435/rgb.txt'
-#file_depth_path = '/home/taeyoungkim/Desktop/ORBSLAM2_with_pointcloud_map/ORB_SLAM2_modified/dataset/kist_L8_floor4_d435/depth.txt'
 
     f_rgb = open(file_rgb_path,'r')
     f_depth = open(file_depth_path,'r')
